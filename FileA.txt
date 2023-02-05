@@ -1,2 +1,3 @@
 FileA
 this is the first file
+3r line
