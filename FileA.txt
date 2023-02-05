@@ -1,1 +1,2 @@
 FileA
+this is the first file
